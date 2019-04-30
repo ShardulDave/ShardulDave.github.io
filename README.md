@@ -1,4 +1,4 @@
-# My professonal website
+# My professional website
 
 ## Copyright and License
 
